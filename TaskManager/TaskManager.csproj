@@ -7,8 +7,8 @@
     <ProjectGuid>{6649B0A9-1690-487E-8B70-0409B3C8A5E7}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>cs_procman</RootNamespace>
-    <AssemblyName>cs_procman</AssemblyName>
+    <RootNamespace>TaskManager</RootNamespace>
+    <AssemblyName>TaskManager</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
